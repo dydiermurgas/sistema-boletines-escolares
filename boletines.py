@@ -135,3 +135,13 @@ while True:
 #Hola, el programa funciona como base de datos, generar boletines, agregar quejas y observar todo lo nombrado anteriormente 
 #Primero genera un perfil para el estudiante llenando las preguntas, boletín o queja y registralo o guardalo con el código q te de o decidas crear, con ese código puedes ver cuando quieras lo que digan o publique los profesores además con la opción de código y clave crea un anillo de doble seguridad para q solo tu puedas ingresar 
 #Pruebalo, deja tu like y reseña porfa
+#Hello! This program functions as a database where you can generate report cards, add complaints, and keep track of all the information mentioned above.
+#First, create a student profile by filling in the required details—such as report cards or complaints—and save it using a unique code (either one provided to you or one you choose to create). With this code, you can view any comments or posts made by teachers at any time. Plus, by using both a code and a password, you get an extra layer of security, ensuring that only you can access the information.
+#Give it a try—please leave a like and a review!
+#Bonjour ! Ce programme fonctionne comme une base de données : il permet de générer des bulletins, d'ajouter des signalements et de consulter toutes ces informations.
+#Commencez par créer un profil pour l'élève en remplissant les champs requis (bulletins ou signalements), puis enregistrez-le à l'aide d'un code — généré automatiquement ou choisi par vos soins. Grâce à ce code, vous pouvez consulter à tout moment les commentaires ou publications des enseignants. De plus, le système combinant code et mot de passe offre une double sécurité, garantissant que vous seul puissiez accéder aux données.
+#Essayez-le, et n'hésitez pas à laisser un « j'aime » ainsi qu'un avis !
+
+#Hallo! Das Programm fungiert als Datenbank: Du kannst Zeugnisse erstellen, Beschwerden hinzufügen und all diese Informationen einsehen.
+#Zuerst erstellst du ein Profil für den Schüler, indem du die entsprechenden Fragen beantwortest sowie Zeugnisse oder Beschwerden hinzufügst. Speichere das Profil unter einem Code – entweder einem automatisch generierten oder einem, den du selbst festlegst. Mit diesem Code kannst du jederzeit einsehen, was die Lehrkräfte eingetragen oder veröffentlicht haben. Dank der Kombination aus Code und Passwort ist dein Zugang zudem doppelt abgesichert, sodass nur du darauf zugreifen kannst.
+#Probier es aus – lass bitte ein Like und eine Bewertung da!
